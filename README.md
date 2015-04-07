@@ -4,10 +4,15 @@ DESCRIPTION:  Select an Open Application, and Bring It to the Foreground
 
 
 1 - Open "AppleScript Editor" From Your Mac                 (Search it in Spotlight)
+
 2 - Paste the Code Below, and Run / Complile the Script:
 
 
+
+
   tell application "*NAMEofAPPLICATION*" to activate
+
+
 
 
 
